@@ -1,0 +1,7 @@
+[
+  {"name": "Parol",     "price": 50,  "criticality": 10},
+  {"name": "Aferin",    "price": 80,  "criticality": 20},
+  {"name": "Majezik",   "price": 100, "criticality": 15},
+  {"name": "Augmentin", "price": 220, "criticality": 35},
+  {"name": "Ventolin",  "price": 180, "criticality": 40}
+]
